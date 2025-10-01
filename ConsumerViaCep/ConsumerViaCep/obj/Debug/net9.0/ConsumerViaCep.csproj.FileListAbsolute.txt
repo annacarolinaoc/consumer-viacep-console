@@ -1,0 +1,14 @@
+C:\Users\Anna Carolina\OneDrive\Documentos\ConsumerViaCep\ConsumerViaCep\bin\Debug\net9.0\ConsumerViaCep.exe
+C:\Users\Anna Carolina\OneDrive\Documentos\ConsumerViaCep\ConsumerViaCep\bin\Debug\net9.0\ConsumerViaCep.deps.json
+C:\Users\Anna Carolina\OneDrive\Documentos\ConsumerViaCep\ConsumerViaCep\bin\Debug\net9.0\ConsumerViaCep.runtimeconfig.json
+C:\Users\Anna Carolina\OneDrive\Documentos\ConsumerViaCep\ConsumerViaCep\bin\Debug\net9.0\ConsumerViaCep.dll
+C:\Users\Anna Carolina\OneDrive\Documentos\ConsumerViaCep\ConsumerViaCep\bin\Debug\net9.0\ConsumerViaCep.pdb
+C:\Users\Anna Carolina\OneDrive\Documentos\ConsumerViaCep\ConsumerViaCep\obj\Debug\net9.0\ConsumerViaCep.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Anna Carolina\OneDrive\Documentos\ConsumerViaCep\ConsumerViaCep\obj\Debug\net9.0\ConsumerViaCep.AssemblyInfoInputs.cache
+C:\Users\Anna Carolina\OneDrive\Documentos\ConsumerViaCep\ConsumerViaCep\obj\Debug\net9.0\ConsumerViaCep.AssemblyInfo.cs
+C:\Users\Anna Carolina\OneDrive\Documentos\ConsumerViaCep\ConsumerViaCep\obj\Debug\net9.0\ConsumerViaCep.csproj.CoreCompileInputs.cache
+C:\Users\Anna Carolina\OneDrive\Documentos\ConsumerViaCep\ConsumerViaCep\obj\Debug\net9.0\ConsumerViaCep.dll
+C:\Users\Anna Carolina\OneDrive\Documentos\ConsumerViaCep\ConsumerViaCep\obj\Debug\net9.0\refint\ConsumerViaCep.dll
+C:\Users\Anna Carolina\OneDrive\Documentos\ConsumerViaCep\ConsumerViaCep\obj\Debug\net9.0\ConsumerViaCep.pdb
+C:\Users\Anna Carolina\OneDrive\Documentos\ConsumerViaCep\ConsumerViaCep\obj\Debug\net9.0\ConsumerViaCep.genruntimeconfig.cache
+C:\Users\Anna Carolina\OneDrive\Documentos\ConsumerViaCep\ConsumerViaCep\obj\Debug\net9.0\ref\ConsumerViaCep.dll
